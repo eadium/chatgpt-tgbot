@@ -1,4 +1,5 @@
 version: '3'
+name: 'chatgpt-tg-bot'
 services:
   chatgpt-telegram-bot:
     build:
